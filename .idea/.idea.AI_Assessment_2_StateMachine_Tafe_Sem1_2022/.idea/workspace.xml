@@ -7,6 +7,10 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Downloads/Movement(2).cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/CharCon.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -56,6 +60,7 @@
       <workItem from="1649033520906" duration="1448000" />
       <workItem from="1653277600228" duration="596000" />
       <workItem from="1655453142020" duration="3252000" />
+      <workItem from="1655538061393" duration="7999000" />
     </task>
     <servers />
   </component>
